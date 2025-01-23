@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Program2.dir/src/main.cpp.o -o Program2  -Wl,-rpath,/home/nik/infotech/build/myLib ../myLib/libmyLib.so -lpthread 
